@@ -24,3 +24,4 @@ fabric.properties
 
 # logs
 altest/logs
+/core/target/
